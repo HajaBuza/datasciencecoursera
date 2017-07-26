@@ -1,2 +1,2 @@
-# datasciencecoursera
-Traning Data Science with R on coursera 
+# Data Science Specialization 
+*This is homework from Data Science Specialization from Coursera.org
